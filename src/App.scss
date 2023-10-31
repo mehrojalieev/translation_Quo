@@ -1,0 +1,87 @@
+.diagramma-wrapper {
+    position: relative;
+    width: 1300px;
+    height: 600px;
+    margin:240px auto 0;
+    // border: 1px solid black;
+    border-radius: 5px;
+}
+
+.balance-card {
+    display: grid;
+    place-items: center;
+    padding: 10px 0;
+    width: 330px;
+    // height: 350px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(128, 128, 128, 0.678);
+    .cost {
+        font-size: 26px;
+        font-weight: 600;
+        margin-top: 14px;
+        margin-bottom: 14px;
+    }
+
+    strong {
+        font-size: 25px;
+        color: #130202;
+    }
+}
+
+.stock {
+    position: absolute;
+    top: 10%;
+    right: 35%;
+}
+.spending-card{
+    position: absolute;
+    right: 30%;
+    bottom: 150px;
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(128, 128, 128, 0.678);
+    // margin: 30px 0 0 10px;
+    p{
+        font-size: 22px;
+        font-weight: 600;
+        color: rgba(10, 2, 19, 0.479);
+    }
+}
+.pie-img{
+    position: absolute;
+    bottom: 100px;
+    left: 10%;
+}
+.lineleft{
+    position: absolute;
+    top: -35%;
+    left: -50px;
+}
+.lineright{
+    position: absolute;
+    top: 20px;
+    right: 60px;
+}
+
+.company-container{
+    width: 100%;
+   max-width: 1200px;
+    height: auto;
+    text-align: center;
+    margin: 50px auto;
+    h2{
+        font-size: 45px;
+        font-weight: 600;
+    }
+    .company-card{
+        margin-top: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        grid-area: 0px 20px;
+        width: 100%;
+        height: 155px;
+    }
+}

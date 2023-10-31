@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    width: 1150px;
+    height: auto;
+    margin: 70px auto;
+    background-color: #fcfbff;
+    padding: 30px;
+    border-radius: 50px;
+}
+header > h2{
+    width: 900px;
+    margin: auto;
+    font-size: 70px;
+    line-height: 90px;
+    color: #09053f;
+}
+header > p{
+    width: 900px;
+    margin: 20px auto;
+    line-height: 40px;
+    font-size: 25px;
+    color: #09053f;
+}
+header > button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 5px;
+    font-size: 22px;
+    padding: 12px 20px;
+    background-color: #6c60fe;
+    border: none;
+    color: #fff;
+    margin: 40px auto;
+    border-radius: 10px;
+    transition: 0.2s;
+    &:hover{
+        transform: scale(1.02);
+        cursor: pointer;
+    }
+}

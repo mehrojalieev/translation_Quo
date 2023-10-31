@@ -1,0 +1,47 @@
+nav{
+    width: 100%;
+    max-width: 1300px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    margin: 10px auto;
+    justify-content: space-between;
+    .money-select{
+        margin-right: 80px;
+    }
+}
+.nav-items{
+    display: flex;
+    gap: 0px 35px;
+    justify-content: space-between;
+    select{
+        font-size: 17px;
+        color: #0a0213;
+        border: none;
+        outline: none;
+    }
+    
+    ul{
+        display: flex;
+        align-items: center;
+        gap: 0px 30px;
+        list-style-type: none;
+        font-weight: 500;
+        font-size: 20px;
+        margin: 0px 10px;
+    }
+    button{
+        padding: 5px 20px;
+        border: none;
+        border-radius: 5px;
+        transition: 0.2s;
+        color: #0a0213;
+        font-size: 20px;
+        font-weight: 600;
+        background-color: #fff;
+        &:hover{
+            background-color: #6c60fe;
+            color: #fff;
+        }
+    }
+}

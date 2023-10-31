@@ -1,0 +1,52 @@
+section{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1300px;
+    height: auto;
+    margin: 40px auto 0;
+}
+
+.system-content{
+    h2{
+        width: 700px;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 85px;
+    }
+    p{
+        width: 700px;
+        font-size: 22px;
+        line-height: 42px;
+        color: #00000096;
+        margin-top: 20px;
+    }
+    button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0px 10px;
+        font-size: 23px;
+        padding: 15px 25px;
+        border: none;
+        margin-top: 30px;
+        border-radius: 5px;
+    }
+}
+.system-card{
+    text-align: right;
+    width: 470px;
+    height: 380px;
+    padding: 10px;
+    background-color: #f7f7ff;
+}
+.system-form{
+    position: absolute;
+    top: 130px;
+    right: 180px;
+    width: 370px;
+    height: 350px;
+    border: 1px solid gray;
+}

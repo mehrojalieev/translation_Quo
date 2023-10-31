@@ -1,0 +1,34 @@
+{
+    "nav":{
+        "money_option": "Money Transfer",
+        "works": "How it works",
+        "business": "Business",
+        "help": "Help",
+        "login": "Log In",
+        "signup": "Sign Up"
+    },  
+    "header":{
+        "title": "Experience the easier way for transaction",
+        "text": " Quo is the most easier way for transaction with your friends and family, now matter where are you. An exceptional way for make your life one step easier",
+        "watch_btn": "See how we works" 
+    },
+    "diagramma":{
+        "balance": "Balance stats",
+        "spend_text": "Spendings",
+        "company_title": "Trusted By"   
+    },
+        "system": {
+            "title": "Real time currency check and easier tracking system",
+            "text": "Quo is the most easier way for transaction with your friends and family, No matter where are you. An exceptional way for make your life one step easier. Quo is the most easier way for transaction with your friends and family,",
+            "exp_btn": "Explore Now"
+        },
+
+    "about":{
+        "subtitle": "How Quo works?",
+        "text": "Quo is the most easier way for transaction with your friends and family, No matter where are you. An exceptional way for make your life one step easier",
+        "card_title1": "Create Account",
+        "card_title2": "Enter Recipent Info",
+        "card_title3": "Send money",
+        "card_text": "Create free account for your transaction.  It’s pretty much easier and don’t worry we care  about your safety"
+    }
+}

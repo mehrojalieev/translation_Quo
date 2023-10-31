@@ -1,0 +1,33 @@
+{
+    "nav":{
+        "money_option": "Pul o'tkazmasi",
+        "works": "Bu qanday ishlaydi?",
+        "business": "Biznes",
+        "help": "Yordam",
+        "login": "Tizimga kirish",
+        "signup": "Ro'yxatdan o'tish"
+    },
+    "header":{
+        "title": "Tranzaksiyaning eng oson usulini sinab ko'ring",
+        "text": " Quo - do'stlaringiz va oilangiz bilan tranzaksiya qilishning eng oson usuli, endi qayerda bo'lishingizdan qat'i nazar. Hayotingizni bir qadam osonlashtirishning ajoyib usuli",
+        "watch_btn": "Qanday ishlayotganimizni ko'ring" 
+    },
+    "diagramma":{
+        "balance": "Balans statistikasi",
+        "spend_text": "Xarajatlar",
+        "company_title": "Ishonchli"
+    },
+    "system": {
+        "title": "Haqiqiy vaqtda valyutani tekshirish va osonroq kuzatish tizimi",
+        "text": "Quo - qayerda bo'lishingizdan qat'i nazar, do'stlaringiz va oilangiz bilan savdo qilishning eng oson usuli. Hayotingizni bir qadam osonlashtirishning ajoyib usuli. Quo - do'stlaringiz va oilangiz bilan tranzaksiya qilishning eng oson usuli,",
+        "exp_btn": "Hozir oʻrganing"
+    },
+    "about":{
+        "subtitle": "Quo qanday ishlaydi?",
+        "text": "Quo - qayerda bo'lishingizdan qat'i nazar, do'stlaringiz va oilangiz bilan savdo qilishning eng oson usuli. Hayotingizni bir qadam osonlashtirishning ajoyib usuli",
+        "card_title1": "Hisob yaratish",
+        "card_title2": "Qabul qiluvchi ma'lumotlarini kiriting",
+        "card_title3": "Pul Yuborish",
+        "card_text": "Tranzaktsiyangiz uchun bepul hisob yarating. Bu ancha oson va tashvishlanmang, biz sizning xavfsizligingiz haqida qayg'uramiz"
+    }
+}
